@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "69987966108",
+    "firebase_url": "https://machine-learning-c5b7d.firebaseio.com",
+    "project_id": "machine-learning-c5b7d",
+    "storage_bucket": "machine-learning-c5b7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69987966108:android:412afb815817519c",
+        "android_client_info": {
+          "package_name": "com.example.jish.textdetector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69987966108-foa71epsod3rhssuea1b244t4m22uv08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJXJ39iQBoFfvPKc-DGJtosEzkaZK4pM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
